@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8bfca9a-a3b1-4638-aac4-c1dd003cc669" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SparkStreamingProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spark-streaming_2.11-2.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/common/Utilities.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/spark/project/StreamingViaclickStream/LogParser.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/spark/project/kafkaStreaming/project.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/spark/project/kafkaStreaming/spark_kafka_integration.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/spark/project/simpleScala/LearningScala1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/spark/project/simpleScala/LearningScala4.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/spark/project/simpleScala/SimpleScala.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/spark/project/simpleScala/simpleSpark.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/spark/project/structuredStreaming/clickStreamingLog.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SparkStreamingProject-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/common/Utilities$$anonfun$setupTwitter$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/common/Utilities$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/common/Utilities.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/spark/project/kafkaStreaming/project/package$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/spark/project/kafkaStreaming/project/package.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/spark/project/kafkaStreaming/spark_kafka_integration$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/spark/project/kafkaStreaming/spark_kafka_integration$$anonfun$3$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/spark/project/kafkaStreaming/spark_kafka_integration$$anonfun$3$$anonfun$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/spark/project/kafkaStreaming/spark_kafka_integration$$anonfun$3$$anonfun$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/spark/project/kafkaStreaming/spark_kafka_integration$$anonfun$3$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/spark/project/kafkaStreaming/spark_kafka_integration$$anonfun$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/spark/project/kafkaStreaming/spark_kafka_integration$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/spark/project/kafkaStreaming/spark_kafka_integration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="outputLevel" value="DEBUG" />
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VbmBp0rEw0uOVljsRzbB2RS6Nz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/scala" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.46091953" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.spark_kafka_integration (1)">
+    <configuration name="spark_kafka_integration (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.spark.project.kafkaStreaming.spark_kafka_integration" />
+      <module name="SparkStreamingProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.spark.project.kafkaStreaming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="spark_kafka_integration" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.spark.streaming.project.spark_kafka_integration" />
+      <module name="SparkStreamingProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkStreamingProject [package]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.spark_kafka_integration (1)" />
+        <item itemvalue="Application.spark_kafka_integration" />
+        <item itemvalue="Maven.SparkStreamingProject [package]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8bfca9a-a3b1-4638-aac4-c1dd003cc669" name="Default Changelist" comment="" />
+      <created>1577530035978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577530035978</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Project_Structure" timestamp="1580646091359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1580646091359" />
+    <state x="456" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580648914816">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="456" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1580648914816" />
+    <state x="503" y="100" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1577531225469">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="503" y="100" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1577531225469" />
+    <state x="465" y="44" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1585482492266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="44" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1585482492266" />
+    <state x="373" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1585738476113">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="373" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1585738476113" />
+    <state x="549" y="166" key="FileChooserDialogImpl" timestamp="1585484101795">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585484101795" />
+    <state width="1492" height="363" key="GridCell.Tab.0.bottom" timestamp="1585583354710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="363" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585583354710" />
+    <state width="1492" height="363" key="GridCell.Tab.0.center" timestamp="1585583354710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="363" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585583354710" />
+    <state width="1492" height="363" key="GridCell.Tab.0.left" timestamp="1585583354710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="363" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585583354710" />
+    <state width="1492" height="363" key="GridCell.Tab.0.right" timestamp="1585583354710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="363" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585583354710" />
+    <state x="349" y="146" key="IDE.errors.dialog" timestamp="1577532391078">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="146" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1577532391078" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1585484105029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585484105029" />
+    <state x="465" y="235" key="com.intellij.ide.util.TipDialog" timestamp="1586164116876">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="235" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586164116876" />
+    <state x="209" y="107" key="new project wizard" timestamp="1584620163921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="107" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1584620163921" />
+  </component>
+</project>
