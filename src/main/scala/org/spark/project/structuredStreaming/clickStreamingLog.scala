@@ -3,7 +3,7 @@ package org.spark.project.structuredStreaming
 
 import org.apache.spark.sql.functions._
 import org.apache.spark.sql.SparkSession
-import sparkStreamingExample.Utilities._
+import common.Utilities._
 
 object clickStreamingLog extends App {
 
@@ -15,6 +15,7 @@ object clickStreamingLog extends App {
     .option("port", 9999)
     .load()
   setupLogging()  // setting log info
+
 import spark.implicits._
   val words = lines.as[String].flatMap(_.split(" "))
 
